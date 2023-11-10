@@ -1,2 +1,0 @@
-# Typography
-Inspired by Divi
